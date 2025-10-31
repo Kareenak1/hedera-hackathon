@@ -55,7 +55,7 @@ UbuntuPass ensures transparency and dignity in giving:
 | **Hedera Developer Certification**           | [View Certificate](https://hedera.com/learn)                   |
 | 
 📊 Pitch Deck
+UbuntuPass is a decentralized platform that transforms cultural experiences into opportunities for healing. Built on the Hedera Hashgraph network, it enables users to buy event tickets as NFTs, where every purchase contributes directly to funding medical bills for individuals in need. The project bridges entertainment, empathy, and transparency — allowing people to enjoy concerts, art exhibitions, and festivals while making a measurable social impact. Using smart contracts, a percentage of each ticket sale is automatically allocated to verified patients, ensuring funds reach the right beneficiaries quickly and securely. Through the UbuntuPass dashboard, users can track the lives they’ve impacted and follow real stories of recovery, reinforcing the African philosophy of Ubuntu — “I am because we are.” Our goal is to make giving effortless, transparent, and woven into everyday cultural events, proving that small acts of participation can lead to life-changing outcomes.
 
-
-GitHub: [
+GitHub: [https://github.com/Kareenak1/hedera-hackathon.git] 
 💙 Powered by Hedera | Built by UbuntuPass
